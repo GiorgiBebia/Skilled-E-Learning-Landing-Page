@@ -1,0 +1,184 @@
+@media (max-width: 768px) {
+    body {
+        background-image: url(../img/image-hero-tablet.png);
+        background-position: 380px -92.13px;
+    }
+
+    .div1 {
+        width: 689px;
+        height: 48px;
+    }
+
+    .div3 {
+        width: 398px;
+        height: 284px;
+        margin-top: 99px;
+        margin-left: 39px;
+    }
+
+    h1 {
+        width: 326px;
+        height: 101px;
+        font-size: 40px;
+        line-height: 50.4px;
+    }
+
+    .p1 {
+        width: 398px;
+        height: 78px;
+        font-size: 16px;
+        line-height: 26px;
+        padding: 25px 0 24px 0;
+    }
+
+    .h2-2 {
+        padding: 15px 37px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .div4 {
+        height: 56px;
+    }
+
+    section {
+        width: 689px;
+        height: 913px;
+        margin-top: 186px;
+    }
+
+    .div5,
+    .div6 {
+        width: 339px;
+        height: 259px;
+    }
+
+    .div6 {
+        height: 283px;
+        padding-bottom: 56px;
+    }
+
+    .h2-4 {
+        padding-top: 24px;
+    }
+
+    .animation {
+        padding-top: 20px;
+    }
+
+    .p2,
+    .p3 {
+        height: 78px;
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .p4 {
+        padding: 16px 21px 24px 32px;
+    }
+
+    footer {
+        margin-top: 86px;
+        height: 120px;
+    }
+
+    .div7 {
+        width: 689px;
+        height: 46px;
+        margin: 0 auto;
+        padding-top: 32px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
+
+@media (max-width: 375px) {
+    body {
+        background-image: none;
+    }
+
+    .div1 {
+        margin-top: 16px;
+        width: 343px;
+    }
+
+    main {
+        display: block;
+    }
+
+    .div3 {
+        width: 343px;
+        height: 285px;
+        margin-top: 38px;
+        margin-left: 16px;
+    }
+
+    .h1 {
+        width: 343px;
+    }
+
+    .p1 {
+        width: 343px;
+        padding-top: 26px;
+        padding-bottom: 24px;
+    }
+
+    .image-hero-mobile {
+        display: block;
+        width: 327px;
+        height: 301px;
+        margin: 0 auto;
+        margin-top: 46px;
+    }
+
+    section {
+        width: 375px;
+        height: 1695px;
+        margin-top: 66px;
+        display: block;
+    }
+
+    .div5 {
+        width: 343px;
+        height: 120px;
+        border-radius: 10px;
+        margin: 0 auto;
+    }
+
+    .h2-3 {
+        width: 286px;
+        height: 64px;
+        font-size: 24px;
+        line-height: 32px;
+        padding: 24px 29px 32px 28px;
+    }
+
+    .div6 {
+        width: 343px;
+        height: 259px;
+        margin-top: 40px;
+        padding-bottom: 16px;
+    }
+
+    .animation {
+        padding-top: 24px;
+    }
+
+    .p2,
+    .p4 {
+        padding: 16px 29px 24px 28px;
+    }
+
+    footer {
+        margin-top: 80px;
+    }
+
+    .div7 {
+        width: 343px;
+        height: 48px;
+        margin: 0 auto;
+        padding-top: 32px;
+        display: flex;
+        justify-content: space-between;
+    }
+}
